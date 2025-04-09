@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="240" height="240" viewBox="0 0 240 240" xmlns="http://www.w3.org/2000/svg">
+  <!-- Body -->
+  <circle cx="120" cy="120" r="90" fill="#6DB3F2"/>
+  
+  <!-- Bubbles decoration -->
+  <circle cx="80" cy="70" r="15" fill="#FFFFFF" opacity="0.7"/>
+  <circle cx="50" cy="100" r="10" fill="#FFFFFF" opacity="0.6"/>
+  <circle cx="180" cy="80" r="12" fill="#FFFFFF" opacity="0.8"/>
+  <circle cx="160" cy="140" r="8" fill="#FFFFFF" opacity="0.6"/>
+  
+  <!-- Eyes -->
+  <circle cx="90" cy="100" r="15" fill="white"/>
+  <circle cx="150" cy="100" r="15" fill="white"/>
+  <circle cx="90" cy="100" r="8" fill="black"/>
+  <circle cx="150" cy="100" r="8" fill="black"/>
+  
+  <!-- Highlights in eyes -->
+  <circle cx="85" cy="95" r="3" fill="white"/>
+  <circle cx="145" cy="95" r="3" fill="white"/>
+  
+  <!-- Smile -->
+  <path d="M90 140 Q120 170 150 140" stroke="white" stroke-width="5" fill="none"/>
+  
+  <!-- Arms -->
+  <path d="M50 130 Q40 120 30 130" stroke="#6DB3F2" stroke-width="8" fill="none"/>
+  <path d="M190 130 Q200 120 210 130" stroke="#6DB3F2" stroke-width="8" fill="none"/>
+  
+  <!-- Pants/Bottom -->
+  <path d="M70 180 Q120 200 170 180" fill="#3D7FC1"/>
+  
+  <!-- Laundry element in hand -->
+  <rect x="25" y="125" width="10" height="15" rx="2" fill="#FFD34E" stroke="#000" stroke-width="1"/>
+  
+  <!-- Tiffin element in hand -->
+  <rect x="205" y="125" width="10" height="10" rx="2" fill="#FF6B6B" stroke="#000" stroke-width="1"/>
+  <rect x="205" y="135" width="10" height="3" rx="1" fill="#333333" stroke="#000" stroke-width="0.5"/>
+  
+  <!-- Name tag -->
+  <rect x="90" y="160" width="60" height="20" rx="10" fill="#FF6B6B"/>
+  <text x="120" y="175" font-family="Arial" font-size="12" text-anchor="middle" fill="white">Bubble Buddy</text>
+</svg>
